@@ -13,7 +13,7 @@ function CadastroVideo() {
   const categoryTitles = categorias.map(({titulo}) => titulo);
   const { handleChange, values } = useForm({
     titulo: 'Video padrão',
-    url: 'https://www.youtube.com/watch?v=TJ90DZjYdWI',
+    url: 'https://www...',
     categoria: 'Front End',
   });
 
